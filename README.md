@@ -1,6 +1,6 @@
-# Cool Introduction
+# Martin Kucera
 
-Add stuff to page.md, done.
+Add stuff to page.md, done. Yeeeee
 
 Preview [here](http://b3ll.github.io/BaseGitHubPage/)
 
